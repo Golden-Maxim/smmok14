@@ -1,0 +1,12 @@
+
+\squid:UselessImportCheck",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8ìûç¼ÿ-
+psquid:UselessImportCheck"GRemove this unused import 'org.openqa.selenium.firefox.FirefoxProfile'.(€ô÷Ùùÿÿÿÿ
+Asquid:S1481"*Remove this unused "proxy" local variable.(®Ç±¼
+ksquid:UselessImportCheck
+"GRemove this unused import 'org.openqa.selenium.firefox.FirefoxOptions'.(ÙŸ•£
+osquid:UselessImportCheck	"FRemove this unused import 'org.openqa.selenium.firefox.FirefoxDriver'.(Úª ÿÿÿÿÿ
+asquid:CallToDeprecatedMethod""4Remove this use of "ChromeDriver"; it is deprecated.(Ì‘àÏúÿÿÿÿ
+Psquid:S1854"9Remove this useless assignment to local variable "proxy".(®Ç±¼
+Nsquid:S25891"7Remove this expression which always evaluates to "true"(¼ö¢ñ
+Msquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å
+jsquid:UselessImportCheck"FRemove this unused import 'org.openqa.selenium.firefox.FirefoxBinary'.(Âë…ğ
